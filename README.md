@@ -1,5 +1,15 @@
-# trading-simulator
-### Game version of trading built using Pygame
+PyGame Starter
+--------------
 
-Practice trading on Candlestick charts at increased speeds - No actual trading or money is involved
+## App.py
 
+Start by moving the mod wheel.
+Stop by pressing anything but the mod wheel.
+Restart with middle C (Midi 60)
+Save with middle E (Midi 64)
+
+## How To ?
+
+```bash
+./python app.py
+```
